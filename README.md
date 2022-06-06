@@ -1,14 +1,17 @@
-# Project
+# Firmware for MSR prototype Jacdac modules
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository defines configuration for experimental [Jacdac](https://aka.ms/jacdac) modules
+produced by Microsoft Research:
+- https://microsoft.github.io/jacdac-docs/devices/microsoft/research
 
-As the maintainer of this project, please make a few updates:
+If you're building your own modules, please follow instructions at
+- https://github.com/microsoft/jacdac-stm32x0/blob/master/README.md
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This is also where you learn more about this repo. To pull the submodule sources, run
+
+```
+git submodule update --init --recursive && git pull
+```
 
 ## Contributing
 

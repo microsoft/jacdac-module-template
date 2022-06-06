@@ -1,0 +1,14 @@
+TRG = my-modules button
+
+# use -j1 or empty to disable parallel build; use -j16 or whatever if you have lots of cores
+# defaults to -j8
+#MAKE_FLAGS = -j16
+
+# set to say COM3 if that's where your BMP is connected; on macOS the value is auto-detected
+#BMP_PORT = COM3
+
+# which folders to build on 'make drop'
+#DROP_TARGETS = my-modules
+
+# If you have 'ccache' installed, uncomment this to speed up build
+#CCACHE = ccache
