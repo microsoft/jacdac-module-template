@@ -1,6 +1,6 @@
 # Template for Jacdac module firmware
 
-Please follow instructions at https://github.com/microsoft/jacdac-stm32x0/blob/master/README.md
+Please follow instructions at https://github.com/microsoft/jacdac-stm32x0/blob/main/README.md
 
 This is also where you learn more about this repo. To pull the submodule sources, run
 
