@@ -1,4 +1,4 @@
-TRG = my-modules button
+TRG = acme-corp-servo module
 
 # use -j1 or empty to disable parallel build; use -j16 or whatever if you have lots of cores
 # defaults to -j8

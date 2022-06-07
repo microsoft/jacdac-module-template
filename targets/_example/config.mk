@@ -1,2 +1,2 @@
-MCU = STM32F030x4
-include $(PLATFORM)/mk/stm32f0.mk
+MCU = STM32G030x6
+include $(PLATFORM)/mk/stm32g0.mk

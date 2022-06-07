@@ -4,7 +4,7 @@
 
 // Edit the string below to match your company name, the device name, and hardware revision.
 // The 0x0 will be replaced with a unique identifier the first time you run make.
-// Do not change the 0x3.... value, as that would break the firmware update process.
+// Do not change the generated 0x3.... value, as that would break the firmware update process.
 FIRMWARE_IDENTIFIER(0x0, "Example Corp. Servo Rev.A");
 
 const servo_params_t servo_params = {
