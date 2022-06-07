@@ -1,3 +1,9 @@
+## Version 0.0.1
+
+### microsoft/jacdac-module-template
+
+* [9c72890](https://github.com/microsoft/jacdac-module-template/commit/9c72890) add dist/ folder
+
 ## Version 0.0.0
 
 ### microsoft/jacdac-module-template
