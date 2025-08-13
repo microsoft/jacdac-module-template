@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repo has moved to https://github.com/jacdac/jacdac-module-template 
+
 # Template for Jacdac module firmware
 
 This repository is a template to create a new module firmware for [Jacdac](https://aka.ms/jacdac).
